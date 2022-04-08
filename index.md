@@ -5,7 +5,9 @@ hello world
 
 [github repository][1]
 [coolmath games][2]
+
 [1]: https://github.com/Sheldon-F/cse15l-lab-reports/edit/main/index.md
+
 [2]: https://www.coolmathgames.com/
 
 *that*
