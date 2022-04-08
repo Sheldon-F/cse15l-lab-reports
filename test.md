@@ -1,3 +1,5 @@
+[Index Page](https://sheldon-f.github.io/cse15l-lab-reports/)
+
 hello world
 [wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
