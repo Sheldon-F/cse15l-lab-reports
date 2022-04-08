@@ -2,6 +2,7 @@
 ## CSE15L Labs
 hello world!!
 
+Le mot juste
 
 [markdown testing](https://sheldon-f.github.io/cse15l-lab-reports/test)
 
