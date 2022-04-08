@@ -1,3 +1,3 @@
 cheers
 
-![](webpageIndex.png)
+![webIndex](webpageIndex.png)
