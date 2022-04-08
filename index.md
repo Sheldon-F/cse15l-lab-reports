@@ -6,8 +6,6 @@ Le mot juste
 
 [Lab Report 1](lab-report-1-week-2.html)
 
-[Lab report](https://sheldon-f.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-
 [markdown testing](https://sheldon-f.github.io/cse15l-lab-reports/test)
 
 
