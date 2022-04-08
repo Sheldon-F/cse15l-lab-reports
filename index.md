@@ -3,4 +3,4 @@
 hello world!!
 
 
-[markdown testing](https://sheldon-f.github.io/cse15l-lab-reports/test.md)
+[markdown testing](https://sheldon-f.github.io/cse15l-lab-reports/test)
