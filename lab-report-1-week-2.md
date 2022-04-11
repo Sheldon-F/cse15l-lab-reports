@@ -81,4 +81,4 @@ Using all 3 of these techniques will improve tour work speed.
 
 ---
 
-[Home](https://shelfrench.github.io/cs15l-lab-reports)
+[Home](https://sheldon-f.github.io/cse15l-lab-reports/)
