@@ -1,6 +1,5 @@
-# Lab Report #1
-## How to log into and use your ieng6 account
-**Step 1- VS Code Install**
+# Lab Report #1: How to log into and use your ieng6 account
+## Step 1- VS Code Install
 
 First go to the vs code website [https://code.visualstudio.com](https://code.visualstudio.com/). Download the version from your platform. Open the .exe file and follow the steps for set up. 
 
@@ -10,7 +9,7 @@ After the install it should open to this.
 
 ![VScode](VSCodeIntro.png)
 
-**Step 2- Remotely Connecting**
+## Step 2- Remotely Connecting
 
 You can connect to your ieng6 from your own device from the terminal line in VS Code, but first you must install the program OpenSSH [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse).Then your password must be activated with your school info at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php). After install and password activation open a new terminal using the terminal tab at the top in VSCode. Use the `ssh` command along with your course specific username that ends with @ieng6.ucsd.edu.
 
@@ -25,7 +24,7 @@ The terminal will prompt for password and look like below when successful.
 
 
 
-**Step 3- Trying Some Commands**
+## Step 3- Trying Some Commands
 
 There are many commands that can be run from the command terminal.
 
@@ -39,7 +38,7 @@ There are many commands that can be run from the command terminal.
 ![Commands](CommonCommands.png)
 
 
-**Step 4- Moving Files**
+## Step 4- Moving Files
 
 You are able to move files from your local computer to the remote server using the `scp` command. Use the command followed by the desired file and then followed by your ieng6 account and the directory you want the file in.
 
@@ -49,7 +48,7 @@ the terminal will then request your password and look like this when succesfulll
 ![image](scpDone.png)
 
 
-**Step 5- SSH key**
+## Step 5- SSH key
 Using SSH key we can save a key to our local computer and ieng6 server that allows us to enter ieng6 without having to type your password. This brings the time down when logging into ieng6. First use the `ssh-keygen` command at the terminal to generate a private and public key. Give a destination to save the keys, press enter twice for an empty password and it will generate keys.
 
 ![sshKeygen](sshKeygen.png)
@@ -62,7 +61,7 @@ Example:`> scp C:/Users/sheld/.ssh/id_rsa.pub cs15lsp22awl@ieng6.ucsd.edu:~/.ssh
 
 
 
-**Step 6- Easy-Peasy Remote Running**
+## Step 6- Easy-Peasy Remote Running
 
 There are a couple of ways to optimize working from the client on the server.
 
