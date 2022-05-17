@@ -24,5 +24,7 @@ This option allows one to do all work and commit/push from the ieng6 server. Thi
 ![](scpShortCut.png)
 
 This option allows one to work from the local and then copy all contents to server and run files.
+
+
 ---
 [home](index.md)
