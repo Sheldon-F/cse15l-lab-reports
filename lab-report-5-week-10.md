@@ -2,9 +2,5 @@
 
 
 
-
-
-
-
 ---
 [home](index.md)
